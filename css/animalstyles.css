@@ -1,0 +1,36 @@
+/* add your CSS here */
+#name {
+  font-weight: bold;
+  font-size: 35px;
+  border-style: hidden;
+}
+img {
+  padding-bottom: 10px;
+  width: 300px;
+  border-style: hidden;
+}
+#interesting-fact {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+#facts {
+  font-weight: bold;
+}
+#container {
+  background-color: #e8a914;
+  border: 2px solid grey;
+  width: 300px;
+  margin:0 auto;
+  padding: 12px;
+  box-shadow: 3px 3px 3px #c0c0c0;
+}
+#card {
+  background-color: #efef17;
+  width: 290px;
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 0 auto;
+}
